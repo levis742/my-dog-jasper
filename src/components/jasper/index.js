@@ -1,8 +1,9 @@
 import React from 'react'
+import './index.css'
 
 function Jasper () {
   return (
-    <p>I am a picture of a dog</p>
+    <img src="./jasper.JPG" className="jasper" />
   )
 }
 
